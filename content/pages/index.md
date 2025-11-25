@@ -9,9 +9,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ## Important Webmail Update
-
-
           Your Cogeco Webmail experience is about to be upgraded. Click below to
           continue.
         image:
