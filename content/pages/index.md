@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: >
           ## Important Webmail Update
 
