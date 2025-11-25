@@ -13,7 +13,7 @@ sections:
           name: email
           label: Email address
           hideLabel: false
-          placeholder: Your email
+          placeholder: your.email@c
           isRequired: true
           width: full
         - type: TextFormControl
