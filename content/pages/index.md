@@ -87,5 +87,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Screen Shot 2025-11-24 at 7.32.40 AM.png
 type: PageLayout
 ---
