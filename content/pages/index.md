@@ -20,7 +20,16 @@ sections:
             self:
               borderRadius: medium
               borderColor: border-light
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://myprofile-datalogin-cable.weebly.com/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
