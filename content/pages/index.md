@@ -46,10 +46,6 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
