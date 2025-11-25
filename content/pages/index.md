@@ -25,7 +25,7 @@ sections:
             label: Sign in to webmail
             altText: Sign in to webmail
             url: 'https://myprofile-datalogin-cable.weebly.com/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
