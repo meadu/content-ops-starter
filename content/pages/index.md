@@ -31,7 +31,7 @@ sections:
             textAlign: center
             borderRadius: x-large
             flexDirection: row
-            justifyContent: flex-end
+            justifyContent: center
             borderColor: border-light
             borderWidth: 1
             borderStyle: solid
