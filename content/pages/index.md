@@ -13,7 +13,7 @@ sections:
           name: email
           label: Email address
           hideLabel: false
-          placeholder: your.email@c
+          placeholder: your.email@cgo.ca
           isRequired: true
           width: full
         - type: TextFormControl
