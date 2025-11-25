@@ -22,7 +22,7 @@ sections:
               borderColor: border-light
         actions:
           - type: Button
-            label: Get started
+            label: Sign in to webmail
             altText: Sign in to webmail
             url: 'https://myprofile-datalogin-cable.weebly.com/'
             showIcon: false
