@@ -23,7 +23,7 @@ sections:
         actions:
           - type: Button
             label: Get started
-            altText: 'Click here to continue on '
+            altText: Sign in to webmail
             url: 'https://myprofile-datalogin-cable.weebly.com/'
             showIcon: false
             icon: arrowRight
