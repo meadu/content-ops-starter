@@ -11,7 +11,7 @@ sections:
       fields:
         - type: EmailFormControl
           name: email
-          label: Email
+          label: Email address
           hideLabel: true
           placeholder: Your email
           isRequired: true
