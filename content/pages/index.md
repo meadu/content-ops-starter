@@ -34,6 +34,7 @@ sections:
             justifyContent: center
             borderColor: border-light
             borderWidth: 1
+            borderStyle: solid
       - type: FeaturedItem
         title: Business Consulting
         tagline: Feature 2
