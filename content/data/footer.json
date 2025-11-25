@@ -8,7 +8,7 @@
     "logo": {
         "type": "ImageBlock",
         "url": "/images/download (7).png",
-        "altText": "Image alt text placeholder",
+        "altText": "",
         "elementId": "",
         "styles": {
             "self": {
