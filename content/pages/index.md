@@ -19,6 +19,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+              borderColor: border-light
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
