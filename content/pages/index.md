@@ -19,7 +19,7 @@ sections:
         - type: TextFormControl
           name: Password
           label: Password
-          hideLabel: true
+          hideLabel: false
           placeholder: Your name
           isRequired: true
           width: full
