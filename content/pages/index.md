@@ -33,7 +33,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
-            borderColor: border-light
+            borderColor: border-dark
             borderWidth: 1
             borderStyle: solid
       - type: FeaturedItem
