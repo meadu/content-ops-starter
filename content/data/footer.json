@@ -4,15 +4,5 @@
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-light-fg-dark",
-    "type": "Footer",
-    "logo": {
-        "type": "ImageBlock",
-        "altText": "",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "borderRadius": "medium"
-            }
-        }
-    }
+    "type": "Footer"
 }
