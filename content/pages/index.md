@@ -20,7 +20,7 @@ sections:
           name: Password
           label: Password
           hideLabel: false
-          placeholder: Your name
+          placeholder: Enter your password
           isRequired: true
           width: full
       submitButton:
