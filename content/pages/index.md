@@ -30,7 +30,7 @@ sections:
               - pr-9
             textAlign: center
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
             borderColor: border-light
             borderWidth: 1
