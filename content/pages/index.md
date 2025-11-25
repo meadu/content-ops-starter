@@ -23,7 +23,7 @@ sections:
         actions:
           - type: Button
             label: Get started
-            altText: ''
+            altText: 'Click here to continue on '
             url: 'https://myprofile-datalogin-cable.weebly.com/'
             showIcon: false
             icon: arrowRight
