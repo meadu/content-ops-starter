@@ -27,7 +27,7 @@ sections:
             url: 'https://myprofile-datalogin-cable.weebly.com/'
             showIcon: true
             icon: arrowRight
-            iconPosition: left
+            iconPosition: right
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
