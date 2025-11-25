@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Important Webmail Update
         tagline: ''
         subtitle: ''
         text: >
